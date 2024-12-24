@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/parsas-repository/static/css/main.b98a074e.css",
+    "main.js": "/parsas-repository/static/js/main.6d12248e.js",
+    "static/media/me.png": "/parsas-repository/static/media/me.a70df11ec649be34ad74.png",
+    "static/media/sql.png": "/parsas-repository/static/media/sql.aa95c2d653ff2aa6e90a.png",
+    "static/media/kindapasalwaysSHAM.png": "/parsas-repository/static/media/kindapasalwaysSHAM.329a10ce36a1e05f3fd5.png",
+    "static/media/underMSRP.png": "/parsas-repository/static/media/underMSRP.a386034fbf5a3c42dd6e.png",
+    "static/media/java.png": "/parsas-repository/static/media/java.dfbc7b3cfa00014f15af.png",
+    "static/media/node.jpg": "/parsas-repository/static/media/node.17aff3218b3ce956a5b2.jpg",
+    "static/media/ng.png": "/parsas-repository/static/media/ng.eb61c8fa009d1215b265.png",
+    "index.html": "/parsas-repository/index.html",
+    "main.b98a074e.css.map": "/parsas-repository/static/css/main.b98a074e.css.map",
+    "main.6d12248e.js.map": "/parsas-repository/static/js/main.6d12248e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98a074e.css",
+    "static/js/main.6d12248e.js"
+  ]
+}
