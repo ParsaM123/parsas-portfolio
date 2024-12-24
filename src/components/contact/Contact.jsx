@@ -12,10 +12,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_xdthdyk",
-        "template_xi8zwe7",
+        "service_cqxwsx8",
+        "template_f88m0dj",
         form.current,
-        "cTGWawCLI7aVlwsN2"
+        "hek6EMuyE4g2BbLoF"
       )
       .then(
         (result) => {
@@ -49,7 +49,7 @@ const Contact = () => {
           </article>
           <article className="contact_option">
             <a
-              href="https://www.linkedin.com/in/andrewsaifnoorian/"
+              href="https://www.linkedin.com/in/parsamahbobi/"
               target="_blank"
               rel="noreferrer"
               className="contact_option-link"

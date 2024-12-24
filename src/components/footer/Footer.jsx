@@ -17,8 +17,8 @@ const Footer = () => {
         <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a href="https://www.linkedin.com/in/andrewsaifnoorian/"><FaLinkedin /></a>
-        <a href="https://github.com/andrewsafe"><FaGithub /></a>  
+        <a href="https://www.linkedin.com/in/parsamahbobi/"><FaLinkedin /></a>
+        <a href="https://github.com/ParsaM123"><FaGithub /></a>  
         <a href="https://andrewsafe.github.io/andrews-portfolio/resume.pdf" target="_blank" rel="noopener noreferrer">
             <FaFileAlt/>
         </a>
