@@ -2,7 +2,7 @@
   "name": "parsas-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/parsas-portfolio",
+  "homepage": "https://parsam123.github.io/parsas-repository",
   "dependencies": {
     "@react-three/drei": "^9.11.3",
     "@react-three/fiber": "^8.0.22",
@@ -48,6 +48,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
