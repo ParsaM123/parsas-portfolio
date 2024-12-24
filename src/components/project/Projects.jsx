@@ -1,47 +1,47 @@
 import React from "react";
 import "./project.css";
-import IMG1 from "../../assets/heroesLLCpic.png";
-import IMG2 from "../../assets/cluegame.png";
+// import IMG1 from "../../assets/heroesLLCpic.png";
+// import IMG2 from "../../assets/cluegame.png";
 import IMG3 from "../../assets/underMSRP.png";
-import IMG4 from "../../assets/CarM.png";
-import IMG5 from "../../assets/tasksapp.png";
+// import IMG4 from "../../assets/CarM.png";
+// import IMG5 from "../../assets/tasksapp.png";
 
 const projects = [
   {
     id: 1,
-    image: IMG1,
+    image: IMG3,
     title: "Heroes Movement LLC",
     github: "",
-    demo: "https://theheromovement.org/",
+    // demo: "https://theheromovement.org/",
   },
   {
     id: 2,
-    image: IMG2,
+    image: IMG3,
     title: "Clue Game",
-    github: "https://github.com/andrewsafe/clue-game",
-    demo: "https://peppy-empanada-ec068d.netlify.app/",
+    // github: "https://github.com/andrewsafe/clue-game",
+    // demo: "https://peppy-empanada-ec068d.netlify.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "Under MSRP App",
-    github: "https://github.com/andrewsafe/BulkEmails",
-    demo: "https://undermsrp.netlify.app/",
+    // github: "https://github.com/andrewsafe/BulkEmails",
+    // demo: "https://undermsrp.netlify.app/",
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: "Car Maintenance App",
-    github: "https://github.com/SKhan2001/CarTracker",
-    demo: "",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "Tasks Web App",
-    github: "https://github.com/andrewsafe/tasks-app",
-    demo: "",
-  },
+  // {
+  //   id: 4,
+  //   image: IMG4,
+  //   title: "Car Maintenance App",
+  //   github: "https://github.com/SKhan2001/CarTracker",
+  //   demo: "",
+  // },
+  // {
+  //   id: 5,
+  //   image: IMG5,
+  //   title: "Tasks Web App",
+  //   github: "https://github.com/andrewsafe/tasks-app",
+  //   demo: "",
+  // },
 ];
 const Projects = () => {
   return (

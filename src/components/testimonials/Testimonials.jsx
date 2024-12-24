@@ -1,7 +1,7 @@
 import React from "react";
 import "./testimonials.css";
-import AVTR1 from "../../assets/psmelvinson.png";
-import AVTR2 from "../../assets/amavs.png";
+import AVTR1 from "../../assets/kindapasalwaysSHAM.png";
+import AVTR2 from "../../assets/react.png";
 // import AVTR3 from "../../assets/mahdyf.jpg";
 // import AVTR4 from "../../assets/tnoble.jpg";
 import { Navigation } from "swiper";
