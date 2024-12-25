@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/parsas-repository/static/css/main.b98a074e.css",
-    "main.js": "/parsas-repository/static/js/main.2db34162.js",
-    "static/media/KivaTeam.png": "/parsas-repository/static/media/KivaTeam.bf126f9b532796f37f5d.png",
-    "static/media/Meld.png": "/parsas-repository/static/media/Meld.d58d4dae410e08e623ce.png",
-    "static/media/BWModern.png": "/parsas-repository/static/media/BWModern.b0a7bde3ab68b7fcaaec.png",
-    "static/media/wikiControl.png": "/parsas-repository/static/media/wikiControl.57d59bd26c4ef79df205.png",
-    "static/media/me.png": "/parsas-repository/static/media/me.a70df11ec649be34ad74.png",
-    "static/media/communiQuest.png": "/parsas-repository/static/media/communiQuest.6061210678a892db2c50.png",
-    "static/media/sql.png": "/parsas-repository/static/media/sql.aa95c2d653ff2aa6e90a.png",
-    "static/media/kindapasalwaysSHAM.png": "/parsas-repository/static/media/kindapasalwaysSHAM.329a10ce36a1e05f3fd5.png",
-    "static/media/BrickWork.png": "/parsas-repository/static/media/BrickWork.cccf6296ad278736b6b9.png",
-    "static/media/java.png": "/parsas-repository/static/media/java.dfbc7b3cfa00014f15af.png",
-    "static/media/node.jpg": "/parsas-repository/static/media/node.17aff3218b3ce956a5b2.jpg",
-    "static/media/ng.png": "/parsas-repository/static/media/ng.eb61c8fa009d1215b265.png",
-    "index.html": "/parsas-repository/index.html",
-    "main.b98a074e.css.map": "/parsas-repository/static/css/main.b98a074e.css.map",
-    "main.2db34162.js.map": "/parsas-repository/static/js/main.2db34162.js.map"
+    "main.css": "/parsas-portfolio/static/css/main.b98a074e.css",
+    "main.js": "/parsas-portfolio/static/js/main.2f9744a8.js",
+    "static/media/KivaTeam.png": "/parsas-portfolio/static/media/KivaTeam.bf126f9b532796f37f5d.png",
+    "static/media/Meld.png": "/parsas-portfolio/static/media/Meld.d58d4dae410e08e623ce.png",
+    "static/media/BWModern.png": "/parsas-portfolio/static/media/BWModern.b0a7bde3ab68b7fcaaec.png",
+    "static/media/wikiControl.png": "/parsas-portfolio/static/media/wikiControl.57d59bd26c4ef79df205.png",
+    "static/media/me.png": "/parsas-portfolio/static/media/me.a70df11ec649be34ad74.png",
+    "static/media/communiQuest.png": "/parsas-portfolio/static/media/communiQuest.6061210678a892db2c50.png",
+    "static/media/sql.png": "/parsas-portfolio/static/media/sql.aa95c2d653ff2aa6e90a.png",
+    "static/media/kindapasalwaysSHAM.png": "/parsas-portfolio/static/media/kindapasalwaysSHAM.329a10ce36a1e05f3fd5.png",
+    "static/media/BrickWork.png": "/parsas-portfolio/static/media/BrickWork.cccf6296ad278736b6b9.png",
+    "static/media/java.png": "/parsas-portfolio/static/media/java.dfbc7b3cfa00014f15af.png",
+    "static/media/node.jpg": "/parsas-portfolio/static/media/node.17aff3218b3ce956a5b2.jpg",
+    "static/media/ng.png": "/parsas-portfolio/static/media/ng.eb61c8fa009d1215b265.png",
+    "index.html": "/parsas-portfolio/index.html",
+    "main.b98a074e.css.map": "/parsas-portfolio/static/css/main.b98a074e.css.map",
+    "main.2f9744a8.js.map": "/parsas-portfolio/static/js/main.2f9744a8.js.map"
   },
   "entrypoints": [
     "static/css/main.b98a074e.css",
-    "static/js/main.2db34162.js"
+    "static/js/main.2f9744a8.js"
   ]
 }
