@@ -19,7 +19,7 @@ const Footer = () => {
       <div className="footer_socials">
         <a href="https://www.linkedin.com/in/parsamahbobi/"><FaLinkedin /></a>
         <a href="https://github.com/ParsaM123"><FaGithub /></a>  
-        <a href="https://andrewsafe.github.io/andrews-portfolio/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="https://parsam123.github.io/parsas-portfolio/resume.pdf" target="_blank" rel="noopener noreferrer">
             <FaFileAlt/>
         </a>
       </div>
