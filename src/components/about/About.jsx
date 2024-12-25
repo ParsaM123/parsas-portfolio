@@ -39,7 +39,7 @@ const About = () => {
           impactful solutions that enhance user experiences and bridge the 
           gap between people and technology. Skilled in combining technical 
           expertise with communication strategies to deliver innovative and 
-          meaningful projects.
+          meaningful projects. 
           </p>
           <a href="#project" className="btn btn-primary">
             {" "}
